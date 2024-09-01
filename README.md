@@ -2,22 +2,14 @@
 Apache HTTP Server setup and troubleshooting on Linux
 # Apache Setup Troubleshooting
 
-## Screenshot 1
+![image](https://github.com/user-attachments/assets/5d58f1fa-2eb3-4206-84a9-12dbb3daf275)
 Description: This screenshot shows the initial attempt to start the Apache server with a binding error on port 80.
 
-![Screenshot 1](screenshot1.jpeg)
-
-## Screenshot 2
+![image](https://github.com/user-attachments/assets/d4708038-40af-440a-be0c-6d52224541be)
 Description: This screenshot shows permission errors related to accessing the Apache log directory.
 
-![Screenshot 2](screenshot2.jpeg)
-
-## Screenshot 3
+![image](https://github.com/user-attachments/assets/c7d51554-9e6f-4e66-aeb8-80a3dd074aec)
 Description: This screenshot shows the virtual host configuration used to resolve the previous errors.
 
-![Screenshot 3](screenshot3.jpeg)
-
-## Screenshot 4
+![image](https://github.com/user-attachments/assets/34342047-1c44-42a1-a1af-08cd8ba38141)
 Description: This screenshot shows the successful start of the Apache server after resolving the configuration issues.
-
-![Screenshot 4](screenshot4.jpeg)![image](https://github.com/user-attachments/assets/f4069351-9c2f-477b-a366-7b451fbac37b)
